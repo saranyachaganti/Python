@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  7 12:21:34 2019
 
-@author: xinthe
+@author: saranya
 """
   
 def reverseWords(input): 
