@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  6 13:04:32 2019
 
-@author: xinthe
+@author: saranya
 """
 
 total = 0
