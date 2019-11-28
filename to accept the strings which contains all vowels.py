@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  7 17:49:37 2019
 
-@author: xinthe
+@author: saranya
 """       
         
 def check(string) : 
