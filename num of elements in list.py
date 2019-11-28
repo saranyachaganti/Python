@@ -2,10 +2,8 @@
 """
 Created on Wed Nov  6 12:22:48 2019
 
-@author: xinthe
+@author: saranya
 """
-
-
 
 from utils.utils import read_arr
 # read array
