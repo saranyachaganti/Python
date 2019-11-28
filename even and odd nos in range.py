@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  6 15:01:13 2019
 
-@author: xinthe
+@author: saranya
 """
 
 start = int(input ('enter starting number'))
