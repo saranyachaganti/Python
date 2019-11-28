@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  7 16:14:34 2019
 
-@author: xinthe
+@author: saranya
 """
 
 big_string = input('enter big string')
