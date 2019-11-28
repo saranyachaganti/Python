@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  6 15:48:27 2019
 
-@author: xinthe
+@author: saranya
 """
 
 #from utils.utils import read_arr
