@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 11 15:50:40 2019
 
-@author: xinthe
+@author: saranya
 """
 
 # Python code demonstrate the working of sorted() 
