@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 11 15:49:02 2019
 
-@author: xinthe
+@author: saranya
 """
 
 def returnSum(dict): 
