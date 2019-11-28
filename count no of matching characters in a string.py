@@ -2,7 +2,7 @@
 """
 Created on Thu Nov  7 18:08:05 2019
 
-@author: xinthe
+@author: saranya
 """
 
 def cnt_char_str(str1, c1) :
