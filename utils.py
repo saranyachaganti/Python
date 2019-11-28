@@ -2,7 +2,7 @@
 """
 Created on Tue Nov  5 14:34:19 2019
 
-@author: xinthe
+@author: saranya
 """
 
 def read_arr( d_type = int, stmt = "Enter the array" ) :
