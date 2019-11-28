@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  6 11:21:43 2019
 
-@author: xinthe
+@author: saranya
 """
 
 # define list 
