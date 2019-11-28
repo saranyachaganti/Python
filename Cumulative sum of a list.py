@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  6 16:27:30 2019
 
-@author: xinthe
+@author: saranya
 """
 
 def Cumulative(lists): 
