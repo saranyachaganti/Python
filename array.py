@@ -2,7 +2,7 @@
 """
 Created on Tue Nov  5 10:39:35 2019
 
-@author: xinthe
+@author: saranya
 """
 
 # Sum of elements of an array 
