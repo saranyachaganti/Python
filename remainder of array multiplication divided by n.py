@@ -2,19 +2,11 @@
 """
 Created on Tue Nov  5 15:46:42 2019
 
-@author: xinthe
+@author: saranya
 """
 
 from utils.utils import read_arr
   
-# define an array 
-
-# multiply all the contents of an array 
-
-# divide trhem by a number n 
-
-# print the value 
-
 arr = []
 arr = read_arr()
 
