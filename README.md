@@ -1,2 +1,2 @@
 # Python
-Random Python Codes
+Basic Python Programs
